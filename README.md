@@ -1,4 +1,4 @@
-# datasciencecoursera
+
 rstudio
 GettingAndCleaningData
 Repository for Cousera: https://class.coursera.org/getdata-008
